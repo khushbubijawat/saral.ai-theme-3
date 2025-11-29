@@ -1,0 +1,1 @@
+EDU-LLM benchmark shows models summarize well but struggle to adapt grad content for community colleges. Trials across 18 classrooms cut prep time by 27% when outlines cited exact page numbers from standards. Policymaker briefs need action bullets, risk framing, and tweet-sized summaries that avoid jargon like "non-stationary diffusion".

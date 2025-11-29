@@ -1,0 +1,8 @@
+[Page 1]
+Urban heat islands amplify cardiovascular stress during summer nights. Remote sensing of Ahmedabad and Indore indicates that informal settlements experience 4°C higher nighttime temperatures than planned neighborhoods. Cooling centers with multilingual signage reduced emergency calls by 13% when paired with SMS alerts.
+
+[Page 2]
+The paper recommends modular shade canopies, rooftop gardens, and reflective coatings. Financially, blending municipal green bonds with CSR contributions closed 62% of the adaptation funding gap. Public health officials insisted that presentation decks highlight evacuation protocols for dialysis patients and include iconography for low-literacy residents.
+
+[Page 3]
+Pilot chatbot campaigns tested voice-first advisories in Gujarati, Hindi, and Marathi. Feedback stressed the need for calm tone, avoidance of alarmist language, and citations to India Meteorological Department bulletins. Future work integrates utility outage maps so that caregivers can route patients before blackouts occur.

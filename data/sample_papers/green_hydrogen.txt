@@ -1,0 +1,8 @@
+[Page 1]
+Green hydrogen projects aim to replace fossil-derived hydrogen with electrolyzers powered by renewable electricity. The capital cost of proton exchange membrane stacks remains the largest barrier to adoption. Recent pilot deployments in coastal industrial parks demonstrate that blended financing and demand guarantees can derisk projects for utilities.
+
+[Page 2]
+Electrolyzer efficiency improves when waste heat is captured from adjacent processes. Policy analyses show that a carbon price above $65 per ton CO2e makes green hydrogen cost-competitive for ammonia production. However, communities near ports request that developers publish visual impact assessments and noise mitigation details to maintain public trust.
+
+[Page 3]
+Researchers propose modular 20 MW electrolyzer blocks coupled with long-duration storage to supply dispatchable power. Methanol synthesis pathways benefit from green hydrogen when paired with captured biogenic CO2. Workforce studies emphasise retraining electricians and pipefitters, with accessible curricula that avoid jargon and include visuals for apprentices.

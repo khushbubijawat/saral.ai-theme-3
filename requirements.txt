@@ -1,0 +1,12 @@
+﻿numpy
+scikit-learn
+scipy
+sentence-transformers
+pypdf
+python-dotenv
+rich
+typer
+rouge-score
+nltk
+pyyaml
+transformers

@@ -1,0 +1,22 @@
+cases:
+  - paper: data/sample_papers/green_hydrogen.txt
+    reference: examples/evaluations/reference_green_hydrogen.txt
+    paper_id: green_h2
+    audience: policymakers
+    style: plain
+    duration: 90s
+    instruction: "Make a 7-slide talk for policymakers focusing on finance levers; include speaker notes"
+  - paper: data/sample_papers/ai_education.txt
+    reference: examples/evaluations/reference_ai_education.txt
+    paper_id: ai_ed
+    audience: educators
+    style: plain
+    duration: 90s
+    instruction: "Create a 5-minute script for teacher trainers with slide bullets and citations"
+  - paper: data/sample_papers/urban_health.txt
+    reference: examples/evaluations/reference_urban_health.txt
+    paper_id: urban_health
+    audience: public health
+    style: press
+    duration: 30s
+    instruction: "Give me a 30-second press briefing with 3 slides and tweets"

@@ -1,0 +1,8 @@
+[Page 1]
+The EDU-LLM benchmark evaluates instruction-following models on curriculum design, formative feedback, and accessibility. Most models excel at summarising content but underperform at translating graduate-level material for community-college learners. Researchers recommend scaffolded exemplars plus visual metaphors to bridge the gap.
+
+[Page 2]
+A randomized controlled trial across 18 classrooms shows that AI-generated lesson outlines improved teacher prep time by 27%. However, teachers demanded clearer provenance for claims inserted into student-facing materials. The study logs indicate that referencing exact page numbers from state standards increased trust scores by 18%.
+
+[Page 3]
+When adapting material for policymakers, participants valued crisp action bullets, risk framing, and tweet-sized summaries with citations. Accessibility reviews flagged jargon such as "non-stationary diffusion" and recommended plain-English paraphrases. The authors released a checklist to neutralize biased language and remove sensitive demographic references.
